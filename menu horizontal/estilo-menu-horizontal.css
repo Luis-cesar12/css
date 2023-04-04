@@ -1,0 +1,20 @@
+#home #navegação .home a,
+#sobre #navegação .sobre a,
+#servicos #navegação .servicos a {
+    background-position: right bottom;
+    background-color: orange;
+    color: white;
+
+}
+ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    width: 720px;
+    background: blue url;
+}
+
+
+#navegação{
+
+}
