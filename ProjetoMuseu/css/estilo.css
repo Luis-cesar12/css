@@ -61,3 +61,35 @@ nav ul li a:link {
 nav ul li a:hover {
     border-bottom: 1px solid #535858;
 }
+
+/* Principal */
+
+#conteudo {
+    width: 710px;
+    float: left;
+    margin-bottom: 20px;
+}
+
+aside {
+    width: 350px;
+    float: right;
+    background: #ebe7eb;
+    padding-bottom: 30px;
+}
+
+section#visita {
+    background: #cdc8b1;
+    padding: 10px 27px 27px 27px;
+    margin-top: 10px;
+}
+
+section#galeria {
+    padding: 0 27px 0 27px;
+}
+
+section#galeria {
+    display: block;
+    background: url(..img/fundo-foto.png) no-repeat;
+    float: left;
+    padding: 17px 15px 17px 15px;
+}
