@@ -1,0 +1,1 @@
+alert('Documentojavascript linkado com sucesso! !')
